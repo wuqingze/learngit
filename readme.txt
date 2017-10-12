@@ -1,2 +1,3 @@
-git is version control system.
+git is a version control system.
 git is free software.
+rollback to future version
