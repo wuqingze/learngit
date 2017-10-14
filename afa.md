@@ -6,29 +6,28 @@
 2、Piazza目前有30,000 教师和50万学生，是全球最大的教学平台。广大的用户群和活跃度保证了提出的问题具有普遍性和全面性，比如一些学习过程中遇到的一些普遍的问题会有人提出来，同时一些特殊的问题也会有人提出来，这样就不愁遇到问题找不到答案了。同时因为有大量的老师参与piazza的建设，大多数问题都可以在6分钟内得到解答。提问题和回答的问题的效率一下子就提上来了，如此高的速度是在传统教学中无法想象的。
 
 3、一门课程不仅需要课堂上传授知识，同时需要大量的课外资料。我们需要在课后分享上课的课件，各种学习视频，习题集，试卷等等。一个站点对文件上传下载的支持尤为重要。站点对文件的支持不仅体现在对文件类型的支持，同时要保证上传下载的速度。piazza支持视频、图片、PDF、word等多种格式文件的上传、下载，同时速度也是相当棒的！  
-<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/1.png?raw=true" ></div>
-
+<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/1.png?raw=true" ></div>  
 
 4、Piazza提供LaTeX格式化编写功能，比如数学公式，程序代码（格式化，语法高亮），更便捷地编写问题和答案，同时优化阅读体验。
-<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/2.png?raw=true" ></div>
+<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/2.png?raw=true" ></div>  
 
 5、Piazza拥有Wiki风格的问答设计。在一个问题下，老师可以对正确且高质量的答案进行标记，从而学生可以首先看到高质量的回答，从而避免了在众多答案中寻找最优解而浪费时间，同时大大保证了答案的正确性。
-<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/3.png?raw=true" ></div>
+<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/3.png?raw=true" ></div>  
 
 6、Piazza提供个性化的调查问卷功能，教师可以发出比如"how was yesterday's lecture?"之类的调查，然后根据学生的反馈适当地对教学内容和进度做出调整。
-<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/4.png?raw=true" ></div>
+<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/4.png?raw=true" ></div>  
 
 7、一个问答平台成功的关键在于问题是否及时得到答案且答案的质量是否过关。根据piazza官方的统计，学生可以在平均6分钟内得到问题的答案，同时当他们提出的问题被回答后可以及时收到通知。
 
 8、Piazza充分保障学生的隐私，匿名发帖鼓励每个学生参与，一些害羞的同学就不必纠结于要不要提手问问题和回答老师问题了，课堂的活跃度也被充分地调动起来。匿名发帖可以说是一举两得。
 
-###分析大夏学堂
+### 分析大夏学堂
 
 1、大夏学堂不会及时地为开学后的选课的同学进行课程注册，可能引起作业无法提交的问题。我在贴吧上就看到一个同学的发帖反映大夏学堂没有为他注册课程，导致他无法提交作业。
-<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/5.png?raw=true" ></div>
+<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/5.png?raw=true" ></div>  
 
 2、大夏学堂界面布局简约大方，并且对内容进行了分类和板块呈现，用户对界面的内容能够一目了然，大大提高了网站的易用性。
- 
+<div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/6.png?raw=true" ></div> 
 
 3、大夏学堂提供了小组合作学习的功能，设计的初衷是为了增强学生的团队合作精神，但是存在不足之处。比如小组成员无法在线协作学习或者在线协作完成任务。也不能对小组内容的更改进行记录；而且只要一个人提交了作业则算为整个小组完成作业，也没有小组长的功能来进行更好的小组管理。
 
