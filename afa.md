@@ -7,5 +7,5 @@
 
 3、一门课程不仅需要课堂上传授知识，同时需要大量的课外资料。我们需要在课后分享上课的课件，各种学习视频，习题集，试卷等等。一个站点对文件上传下载的支持尤为重要。站点对文件的支持不仅体现在对文件类型的支持，同时要保证上传下载的速度。piazza支持视频、图片、PDF、word等多种格式文件的上传、下载，同时速度也是相当棒的！  
 <div align=center><img src = "https://github.com/ECNU-DEIT-2015/10152510231/blob/master/doc/Pictures/1.png?raw=true" ></div>
-*<div align=center>支持多种格式文件</div>*
+_<div align=center>支持多种格式文件</div>_
 
