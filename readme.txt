@@ -10,6 +10,10 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 
+<<<<<<< HEAD
 
 
 ++++++++++++++++++++++++++++++++++++++++++++
+=======
+hello world
+>>>>>>> 941c0aaff28d75c9a8c46873c4b074f34e42a146
