@@ -3,3 +3,4 @@ git is free software.
 rollback to future version
 add new row from wu
 after key changed
+Creating a new branch is quick AND simple.
